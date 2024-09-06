@@ -1,2 +1,2 @@
 # FileBrowser
-Simple CPP file browser with the ability to record directory history
+Simple CPP file browser to view files and with the ability to record directory history
